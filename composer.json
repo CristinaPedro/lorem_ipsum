@@ -22,7 +22,10 @@
         "cweagans/composer-patches": "^1.7",
         "drush/drush": "^11.3",
         "drupal/pathauto": "^1.11",
-        "drupal/twig_tweak": "^3.2"
+        "drupal/twig_tweak": "^3.2",
+        "drupal/restui": "^1.21",
+        "drupal/jsonapi_extras": "^3.21",
+        "drupal/media_thumbnail_url_formatter": "^2.0"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2"
